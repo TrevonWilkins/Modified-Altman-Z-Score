@@ -25,9 +25,7 @@ Cite:
 https://www.investopedia.com/terms/a/altman.asp#:~:text=The%20formula%20for%20Altman%20Z,*(sales%20%2F%20total%20assets).
 
 How To Use:
-
-Step 1: altz_score("Enter a Ticker Symbol") -- > altz_score("MSFT")
-
+Call Function: altz_score("Enter a Ticker Symbol") -- > altz_score("MSFT")
 Output: MSFT modified Altman Z-Score = X.XX
 
 '''
